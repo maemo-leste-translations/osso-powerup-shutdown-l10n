@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Bedingungen"
+
+msgid "dpup_ia_battery_full"
+msgstr "Akku geladen"
+
+msgid "dpup_ia_charging"
+msgstr "Akku wird geladen"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Netzgerät von Stromversorgung trennen, um Strom zu sparen"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Das Gerät ist zu heiß und wird ausgeschaltet. Schieben Sie zur Unterstützung "
+"der Abkühlung die Tastatur heraus."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Akku lädt nicht"
+
+msgid "powerup_by_continuing"
+msgstr "Wenn Sie fortfahren, stimmen Sie den Bedingungen von Nokia zu."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Sperren des Geräts während eines Anrufs nicht möglich"
+
+msgid "powerup_ib_general_activated"
+msgstr "Aktiviertes Profil: Allgemein"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Aktiviertes Profil: Stumm"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Gerät wird via USB verwendet. Trennen Sie das Gerät vom PC, und versuchen "
+"Sie erneut, das Gerät auszuschalten."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Aktuelle Aufgabe beenden"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Offline-Modus"
+
+msgid "powerup_memainmenu_general"
+msgstr "Allgemein"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Gerät sperren"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Bildschirm u. Tasten sperren"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normalmodus"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Ausschalten"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Stumm"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Offline-Modus deaktivieren?"
+
+msgid "powerup_sign_up_register"
+msgstr "Registrieren"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Vielen Dank, dass Sie sich für Nokia entschieden haben. Mit Ihrem "
+"Mobiltelefon können Sie den Ovi Store mit Hunderten von kostenlosen "
+"Anwendungen und Spielen nutzen."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Vielen Dank, dass Sie sich für Nokia entschieden haben. Damit Sie Ihr neues "
+"Nokia Mobiltelefon optimal nutzen können, können Sie sich registrieren, um "
+"kostenlos wertvolle Tipps und Tricks zu erhalten."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Damit Sie Ihr neues Nokia Mobiltelefon optimal nutzen können, erhalten Sie "
+"kostenlos wertvolle Tipps und Tricks. Wenn Sie fortfahren, stimmen Sie den "
+"Bedingungen von Nokia zu."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Ihre Registrierung ist fehlgeschlagen.\n"
+"Wählen Sie bitte in den Einstellungen 'My Nokia', um es erneut zu versuchen. "
+"Weitere Informationen erhalten Sie unter www.nokia.de/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Willkommen bei My Nokia.\n"
+"In Kürze erhalten Sie KOSTENLOS Nachrichten mit Tipps und Unterstützung für "
+"Ihr Nokia. Unter Einstellungen können Sie sich bei My Nokia abmelden."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Willkommen zurück! \n"
+"Sie sind bereits bei My Nokia registriert. Ab jetzt erhalten Sie Tipps für "
+"Ihr neues Nokia Mobiltelefon."

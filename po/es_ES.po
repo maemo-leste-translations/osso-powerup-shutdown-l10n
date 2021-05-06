@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Términos y condiciones"
+
+msgid "dpup_ia_battery_full"
+msgstr "Batería cargada"
+
+msgid "dpup_ia_charging"
+msgstr "Cargando"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Desconecte el cargador de la toma de corriente para ahorrar energía."
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"El dispositivo está demasiado caliente y se apagará. Extraiga el teclado "
+"para facilitar su enfriamiento."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "No está cargando"
+
+msgid "powerup_by_continuing"
+msgstr "Si continúa, declara que acepta las condiciones de Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Imposible bloquear el dispositivo durante una llamada"
+
+msgid "powerup_ib_general_activated"
+msgstr "Perfil activado: General"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Perfil activado: Silencio"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"El dispositivo se está utilizando a través de USB. Desconecte el dispositivo "
+"del PC e intente apagarlo de nuevo."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Finalizar tarea actual"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Modo sin conexión"
+
+msgid "powerup_memainmenu_general"
+msgstr "General"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Proteger dispositivo"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Bloquear pantalla/teclas"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Modo normal"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Apagar"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Silencio"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "¿Salir de modo sin conexión?"
+
+msgid "powerup_sign_up_register"
+msgstr "Registrarse"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Gracias por escoger Nokia. Su dispositivo Nokia incluye la Ovi tienda con "
+"cientos de aplicaciones y juegos gratuitos."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Gracias por elegir Nokia. Para sacar el máximo partido de su nuevo "
+"dispositivo Nokia, suscríbase a los mensajes gratuitos con consejos e "
+"información de utilidad para usted."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Con el fin de que saque el máximo partido a su nuevo dispositivo Nokia, se "
+"le enviará, de forma gratuita, mensajes con consejos e información. Si "
+"continúa, declara su conformidad con las condiciones de Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"No se ha podido realizar el registro.\n"
+"Consulte 'My Nokia' en Ajustes para volver a intentarlo. Para obtener más "
+"información, visite www.nokia.es/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Bienvenido a My Nokia.\n"
+"En breve, comenzará a recibir GRATIS en su dispositivo Nokia, consejos e "
+"información de ayuda a través de SMS. Para anular su suscripción, vaya a 'My "
+"Nokia' en Ajustes."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Bienvenido de nuevo. \n"
+"Ya está registrado en My Nokia. A partir de ahora, recibirá consejos para su "
+"nuevo dispositivo Nokia."

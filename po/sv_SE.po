@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Villkor"
+
+msgid "dpup_ia_battery_full"
+msgstr "Batteriet fullt"
+
+msgid "dpup_ia_charging"
+msgstr "Laddar"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Ta bort laddaren från vägguttaget för att spara energi"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Enheten är för varm och kommer att stängas av. Dra ut tangentbordet för att "
+"den ska svalna snabbare."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Laddar inte"
+
+msgid "powerup_by_continuing"
+msgstr "Genom att fortsätta accepterar du Nokias villkor."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Det går inte att låsa enheten under pågående samtal"
+
+msgid "powerup_ib_general_activated"
+msgstr "Aktiverad profil: Allmänt"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Aktiverad profil: Ljudlös"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Enheten används via USB. Koppla ner enheten från datorn och försök stänga av "
+"enheten igen."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Avsluta nuvarande uppgift"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Offlineläge"
+
+msgid "powerup_memainmenu_general"
+msgstr "Allmänt"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Lås enhet"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Skärm- och knapplås på"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normalläge"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Stäng av!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Ljudlös"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Vill du stänga offlineläget?"
+
+msgid "powerup_sign_up_register"
+msgstr "Registrera dig"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Tack för att du har valt Nokia. Din Nokia inkluderar Ovi Butik med "
+"hundratals kostnadsfria program och spel."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Tack för att du har valt Nokia. Om du vill få ut mesta möjliga av din nya "
+"Nokia kan du registrera dig för kostnadsfria tips- och supportmeddelanden"
+
+msgid "powerup_to_get_most"
+msgstr ""
+"För att du ska få ut mesta möjliga av din Nokia kommer du att få "
+"kostnadsfria tips- och supportmeddelanden. Genom att fortsätta accepterar du "
+"Nokias villkor."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Registreringen misslyckades.\n"
+"Se My Nokia i Inställningar och försök igen. Mer information finns på www."
+"nokia.se/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Välkommen till My Nokia.\n"
+"Du kommer inom kort att börja få kostnadsfria tips och support för din Nokia "
+"via SMS. Se My Nokia i Inställningar om du vill avsluta abonnemanget."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Välkommen tillbaka! \n"
+"Du är redan My Nokia-registrerad. Du kommer nu att börja få tips för din nya "
+"Nokia-modell."

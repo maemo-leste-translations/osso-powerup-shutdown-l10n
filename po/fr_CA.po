@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Conditions générales"
+
+msgid "dpup_ia_battery_full"
+msgstr "Batterie chargée"
+
+msgid "dpup_ia_charging"
+msgstr "Batterie en charge"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Pour économiser de l'énergie, débrancher le chargeur de la prise."
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Le terminal est trop chaud et va être fermé. Sortir le clavier pour "
+"favoriser le refroidissement."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Pas en charge"
+
+msgid "powerup_by_continuing"
+msgstr "En continuant, vous acceptez les conditions générales de Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Impossible de verrouiller le terminal durant un appel."
+
+msgid "powerup_ib_general_activated"
+msgstr "Profil activé : général"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Profil activé : silencieux"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Ce terminal est connecté par USB. Déconnectez-le de l'ordinateur et "
+"réessayez de l'éteindre."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Mettre fin à la tâche en cours"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Mode hors connexion"
+
+msgid "powerup_memainmenu_general"
+msgstr "Général"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Verrouiller le terminal"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Verrouiller touches et écran"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Mode normal"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Éteindre !"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Silencieux"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Quitter le mode hors connexion ?"
+
+msgid "powerup_sign_up_register"
+msgstr "Inscription"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Merci d'avoir choisi Nokia. Votre terminal Nokia vous permet d'accéder à la "
+"boutique Ovi dans laquelle vous trouverez des centaines d'applications et de "
+"jeux gratuits."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Merci d'avoir choisi Nokia. Pour profiter pleinement de votre nouveau "
+"terminal, vous pouvez vous inscrire afin de profiter de conseils et de "
+"messages de soutien gratuits."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Vous recevrez également des conseils et messages de soutien gratuits "
+"destinés à vous aider à profiter au mieux de votre nouveau terminal. En "
+"continuant, vous acceptez les conditions générales de Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Échec de l'inscription.\n"
+"Accédez à la zone My Nokia dans Paramètres, puis réessayez. Pour en savoir "
+"plus, visitez le site www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Bienvenue dans My Nokia.\n"
+"Vous allez bientôt commencer à recevoir des conseils et du soutien GRATUITS "
+"par SMS. Pour vous désinscrire, visitez la section My Nokia dans Paramètres."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Heureux de vous revoir!\n"
+"Vous êtes déjà inscrit à My Nokia. Vous allez maintenant commencer à "
+"recevoir des conseils pour votre nouveau terminal Nokia."

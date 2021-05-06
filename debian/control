@@ -1,0 +1,119 @@
+Source: osso-powerup-shutdown-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-powerup-shutdown-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-powerup-shutdown-l10n-mr
+Depends: osso-powerup-shutdown-l10n-ruru, osso-powerup-shutdown-l10n-frfr, osso-powerup-shutdown-l10n-frca, osso-powerup-shutdown-l10n-dadk, osso-powerup-shutdown-l10n-itit, osso-powerup-shutdown-l10n-svse, osso-powerup-shutdown-l10n-nono, osso-powerup-shutdown-l10n-fifi, osso-powerup-shutdown-l10n-nlnl, osso-powerup-shutdown-l10n-enus, osso-powerup-shutdown-l10n-dede, osso-powerup-shutdown-l10n-esmx, osso-powerup-shutdown-l10n-eses, osso-powerup-shutdown-l10n-cscz, osso-powerup-shutdown-l10n-ptpt, osso-powerup-shutdown-l10n-engb, osso-powerup-shutdown-l10n-plpl
+Description: osso-powerup-shutdown marketing release package
+ This is a metapackage for osso-powerup-shutdown to pull all the l10n packages.
+ Application developers of osso-powerup-shutdown should depend on
+ "osso-powerup-shutdown-l10n-mr0 | osso-powerup-shutdown-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-powerup-shutdown-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (cs_CZ)
+ Language files for cs_CZ osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (da_DK)
+ Language files for da_DK osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (de_DE)
+ Language files for de_DE osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (en_GB)
+ Language files for en_GB osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (en_US)
+ Language files for en_US osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (es_ES)
+ Language files for es_ES osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (es_MX)
+ Language files for es_MX osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (fi_FI)
+ Language files for fi_FI osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (fr_CA)
+ Language files for fr_CA osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (fr_FR)
+ Language files for fr_FR osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (it_IT)
+ Language files for it_IT osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (nl_NL)
+ Language files for nl_NL osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (no_NO)
+ Language files for no_NO osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (pl_PL)
+ Language files for pl_PL osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (pt_PT)
+ Language files for pt_PT osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (ru_RU)
+ Language files for ru_RU osso-powerup-shutdown.
+
+Package: osso-powerup-shutdown-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-powerup-shutdown (sv_SE)
+ Language files for sv_SE osso-powerup-shutdown.

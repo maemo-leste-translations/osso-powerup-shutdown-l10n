@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Podmínky a ustanovení"
+
+msgid "dpup_ia_battery_full"
+msgstr "Baterie nabitá"
+
+msgid "dpup_ia_charging"
+msgstr "Nabíjení"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Šetřete energii; odpojte nabíječku ze sítě."
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Přístroj se přehřívá a bude vypnut. Vysuňte klávesnici pro usnadnění "
+"chlazení."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Nabíjení neprobíhá"
+
+msgid "powerup_by_continuing"
+msgstr "Pokračováním vyslovujete souhlas s podmínkami společnosti Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Nelze uzamknout přístroj během hovoru"
+
+msgid "powerup_ib_general_activated"
+msgstr "Aktivovaný profil: Základní"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Aktivovaný profil: Tichý"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Přístroj se používá přes USB. Odpojte přístroj od počítače a zkuste jej "
+"znovu vypnout."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Ukončit aktuální úkol"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Režim off-line"
+
+msgid "powerup_memainmenu_general"
+msgstr "Základní"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Uzamknout přístroj"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Zamknout displej a klávesy"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normální režim"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Vypnout!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Tichý"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Ukončit režim off-line?"
+
+msgid "powerup_sign_up_register"
+msgstr "Přihlásit se"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Děkujeme vám, že jste se rozhodli pro telefon Nokia. Váš telefon Nokia "
+"umožňuje přístup ke službě Ovi Obchod, kde zdarma naleznete stovky aplikací "
+"a her."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Děkujeme vám, že jste se rozhodli pro telefon Nokia. Nejlépe nový telefon "
+"Nokia využijete, pokud se přihlásíte k odběru zpráv s tipy a podporou"
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Abyste ze svého nového telefonu Nokia dostali maximum, obdržíte bezplatné "
+"tipy a zprávy s podporou. Pro pokračování přijměte podmínky společnosti "
+"Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Přihlášení se nezdařilo.\n"
+"Podívejte se ve službě ‚My Nokia‘ do nabídky Nastavení a pokus opakujte. "
+"Více informací získáte na adrese www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Vítejte ve službě My Nokia.\n"
+"Brzy začnete dostávat do svého telefonu Nokia BEZPLATNÉ tipy a podporu "
+"prostřednictvím zpráv SMS. Pro odhlášení viz položka ‚My Nokia‘ v části "
+"Nastavení."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Vítejte zpět! \n"
+"Již jste zaregistrováni ve službě My Nokia. Nyní začnete dostávat tipy pro "
+"svůj nový telefon Nokia."

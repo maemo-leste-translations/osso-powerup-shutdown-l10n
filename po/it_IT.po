@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Termini e condizioni"
+
+msgid "dpup_ia_battery_full"
+msgstr "Batteria carica"
+
+msgid "dpup_ia_charging"
+msgstr "Ricarica"
+
+msgid "dpup_ia_remove_charger"
+msgstr ""
+"Scolleg. il caricabatterie dalla presa di alimentaz. per limitare i consumi"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Il dispositivo è surriscaldato e verrà chiuso. Far scorrere la tastiera "
+"verso l'esterno per agevolare il raffreddamento."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Non in carica"
+
+msgid "powerup_by_continuing"
+msgstr "Se decidi di procedere, accetti termini e condizioni Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Impossibile bloccare il dispositivo durante una chiamata"
+
+msgid "powerup_ib_general_activated"
+msgstr "Profilo attivato: Generale"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Profilo attivato: Silenzioso"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Il dispositivo è in uso tramite il cavo USB. Disconnettere il dispositivo "
+"dal PC e riprovare a spegnerlo."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Termina l'attività in corso"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Modalità non in linea"
+
+msgid "powerup_memainmenu_general"
+msgstr "Generale"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Blocca dispositivo"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Blocca schermo e tasti"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Modalità normale"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Spegni"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Silenzioso"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Uscire dalla modalità non in linea?"
+
+msgid "powerup_sign_up_register"
+msgstr "Iscrizione"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Grazie per aver scelto Nokia! Il tuo Nokia include Ovi Store con centinaia "
+"di applicazioni e giochi gratuiti."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Grazie per aver scelto Nokia! Per usare al meglio il tuo nuovo Nokia, è "
+"possibile iscriversi e ricevere messaggi gratuiti con i nostri suggerimenti "
+"e supporto."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Per usare al meglio il tuo nuovo Nokia, ti invieremo messaggi gratuiti con i "
+"nostri suggerimenti e supporto. Se decidi di procedere, accetti termini e "
+"condizioni Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"L'iscrizione non è riuscita.\n"
+"Riprova andando su Impostazioni e seleziona My Nokia. Per ulteriori "
+"informazioni, vai su www.nokia.it/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Benvenuto in My Nokia!\n"
+"A breve riceverai SMS GRATUITI con i nostri suggerimenti e supporto per il "
+"tuo Nokia. Per annullare l'iscrizione seleziona Impostazioni, quindi My "
+"Nokia."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Bentornato! \n"
+"L'iscrizione a My Nokia è stata già effettuata. Adesso inizierai a ricevere "
+"suggerimenti per il tuo nuovo Nokia."

@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Käyttöehdot"
+
+msgid "dpup_ia_battery_full"
+msgstr "Akku täynnä"
+
+msgid "dpup_ia_charging"
+msgstr "Akku latautuu"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Säästä energiaa irrottamalla laturi virtalähteestä"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Laite on liian kuuma ja se sammutetaan. Nopeuta jäähtymistä avaamalla "
+"näppäimistö."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Akku ei lataudu"
+
+msgid "powerup_by_continuing"
+msgstr "Jatkamalla hyväksyt Nokian käyttöehdot."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Laitetta ei voi lukita puhelun aikana"
+
+msgid "powerup_ib_general_activated"
+msgstr "Käytettävä profiili: yleinen"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Käytettävä profiili: äänetön"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Laitetta käytetään USB-yhteyden kautta. Irrota laite tietokoneesta ja "
+"katkaise sitten virta."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Lopeta nykyinen tehtävä"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Offline-tila"
+
+msgid "powerup_memainmenu_general"
+msgstr "Yleinen"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Lukitse laite"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Lukitse näyttö ja näppäimet"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normaalitila"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Sammuta"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Äänetön"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Poistutaanko offline-tilasta?"
+
+msgid "powerup_sign_up_register"
+msgstr "Rekisteröidy"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Kiitos, että valitsit Nokian. Nokia-laitteesi sisältää Ovi Kaupan, jossa on "
+"satoja maksuttomia sovelluksia ja pelejä."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Kiitos, että valitsit Nokian. Saat uudesta Nokia-laitteestasi kaiken hyödyn "
+"irti tilaamalla maksuttomia vinkkejä ja tukiviestejä."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Jotta saisit kaiken hyödyn irti uudesta Nokia-laitteestasi, saat maksuttomia "
+"vinkkejä ja tukiviestejä. Jatkamalla hyväksyt Nokian käyttöehdot."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Kirjautuminen ei onnistunut.\n"
+" Katso lisätietoja Asetukset-valikon My Nokia -kohdasta ja yritä uudelleen. "
+"Lisätietoja löydät osoitteesta www.nokia.fi/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Tervetuloa My Nokia -palveluun.\n"
+" Saat Nokia-laitteeseesi pian MAKSUTTOMIA vinkkejä ja ohjeita "
+"tekstiviestillä. Voit peruuttaa tilauksen Asetukset-valikon My Nokia -"
+"kohdassa."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Tervetuloa takaisin! \n"
+"Olet jo rekisteröitynyt My Nokia -palveluun. Saat nyt uuteen Nokia-"
+"laitteeseesi vinkkejä."

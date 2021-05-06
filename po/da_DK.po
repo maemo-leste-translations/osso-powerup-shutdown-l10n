@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Vilkår og betingelser"
+
+msgid "dpup_ia_battery_full"
+msgstr "Fuldt batteriniveau"
+
+msgid "dpup_ia_charging"
+msgstr "Oplader"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Træk stikket til opladeren ud af stikkontakten for at spare energi"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Enheden er for varm og vil lukke ned. Skub tastaturet ud for at hjælpe med "
+"afkølingen."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Oplader ikke"
+
+msgid "powerup_by_continuing"
+msgstr "Hvis du fortsætter, accepterer du Nokias vilkår."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Kan ikke låse enheden under et opkald"
+
+msgid "powerup_ib_general_activated"
+msgstr "Aktiveret profil: Generelt"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Aktiveret profil: Lydløs"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Enheden er tilsluttet via USB-kablet. Afbryd forbindelsen imellem enheden og "
+"pc'en, og prøv at slukke for enheden igen."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Afslut aktuelle opgave"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Offlinetilstand"
+
+msgid "powerup_memainmenu_general"
+msgstr "Generelt"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Lås enhed"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Lås skærm og taster"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normal tilstand"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Sluk!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Lydløs"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Afslut offlinetilstand?"
+
+msgid "powerup_sign_up_register"
+msgstr "Tilmeld dig"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Tak fordi du valgte Nokia. Din Nokia har Ovi Marked med hundredevis af "
+"gratis programmer og spil"
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Tak, fordi du valgte Nokia. Du kan tilmelde dig til at modtage tips og "
+"support, så du kan få mest muligt ud af din nye Nokia"
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Du vil modtage beskeder med tips og support, så du kan få mest muligt ud af "
+"din nye Nokia. Hvis du fortsætter, accepterer du Nokias vilkår."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Din tilmelding mislykkedes.\n"
+"Se My Nokia i Indstillinger for at prøve igen. Få flere oplysninger på www."
+"nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Velkommen til My Nokia.\n"
+"Du vil snart begynde at modtage GRATIS tips og support til din Nokia via "
+"SMS. Se 'My Nokia' i Indstillinger, hvis du vil afmelde."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Velkommen tilbage! \n"
+"Du er allerede tilmeldt My Nokia. Du vil nu begynde at modtage tips til din "
+"nye Nokia."

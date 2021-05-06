@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20100215141337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Termes et conditions"
+
+msgid "dpup_ia_battery_full"
+msgstr "Batterie chargée"
+
+msgid "dpup_ia_charging"
+msgstr "Batterie en charge"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Débranchez le chargeur de la prise pour économiser de l'énergie"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Le terminal surchauffe et va être éteint. Faites glisser le clavier vers "
+"l'extérieur pour qu'il refroidisse."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Défaut de charge"
+
+msgid "powerup_by_continuing"
+msgstr "En continuant, vous acceptez les conditions de Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Impossible de verrouiller le terminal pendant un appel"
+
+msgid "powerup_ib_general_activated"
+msgstr "Profil activé : Général"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Profil activé : Muet"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Terminal utilisé via USB. Déconnectez le terminal du PC et éteignez-le à "
+"nouveau."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Arrêter tâche en cours"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Mode hors ligne"
+
+msgid "powerup_memainmenu_general"
+msgstr "Général"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Verrouiller le terminal"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Verrouiller touches et écran"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Mode normal"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Éteindre !"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Silencieux"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Quitter le mode hors ligne ?"
+
+msgid "powerup_sign_up_register"
+msgstr "S'inscrire"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Merci d'avoir choisi Nokia. Votre mobile vous permet d'accéder à Ovi Store "
+"et de télécharger gratuitement des centaines de jeux et d'applications."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Merci d'avoir choisi Nokia. Pour bénéficier de tous les avantages de votre "
+"nouveau mobile, inscrivez-vous pour recevoir gratuitement des conseils et de "
+"l'aide."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Pour bénéficier de tous les avantages de votre mobile, recevez gratuitement "
+"des conseils et de l'aide. En continuant, vous acceptez les conditions de "
+"Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Votre inscription a échoué.\n"
+"Accédez à My Nokia dans Paramètres pour essayer à nouveau. Pour plus "
+"d'informations, consultez le site www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Bienvenue dans My Nokia.\n"
+"Vous recevrez gratuitement des SMS contenant des conseils et de l'aide pour "
+"votre mobile. Pour vous désabonner : My Nokia>Paramètres"
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Bienvenue ! \n"
+"Votre inscription à My Nokia est déjà active. Vous recevrez très vite des "
+"conseils sur votre nouveau Nokia."
