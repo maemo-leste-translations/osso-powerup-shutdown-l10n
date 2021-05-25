@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-03-05 16:53+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "dpup_ia_battery_full"
+msgstr "Akkumulátor feltöltve"
+
+msgid "dpup_ia_charging"
+msgstr "Töltés"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Húzd ki a töltőt a konnektorból az energiamegtakarítás érdekében"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr ""
+"Az eszköz túl forró, ezért kikapcsol.\n"
+"Csúsztasd fel a billentyűzetett,\n"
+"hogy könnyebben lehűljön az eszköz"
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Nincs töltés"
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Nem lehet lezárni az eszközt hívás közben"
+
+msgid "powerup_ib_general_activated"
+msgstr "Aktív profil: Általános"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Aktív profil: Néma"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Az eszköz használatban van USB-n.\n"
+"Válaszd le az eszközt a PC-ről és próbáld kikapcsolni az eszközt újra."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Jelenlegi folyamat bezárása"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Offline mód"
+
+msgid "powerup_memainmenu_general"
+msgstr "Általános"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Eszköz zárolása"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Kijelző és bill. lezárása"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normál mód"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Kikapcsolás!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Néma"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Offline mód elhagyása?"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Használati feltételek"
+
+msgid "powerup_by_continuing"
+msgstr "Folytatás a Nokia feltételek elfogadásával"
+
+msgid "powerup_sign_up_register"
+msgstr "Feliratkozom"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Köszönjük hogy a Nokiát választottad. A készüléked tartalmazza az Ovi Áruházat több száz "
+"ingyenes alkalmazással és játékkal."
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Köszönjük hogy a Nokiát választottad. Hogy a legtöbbet kihozd az új Nokiádból iratkozz"
+"fel ingyenes tipp és támogatás üzenetekért."
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Hogy a legtöbbet kihozd az új Nokiádból, ingyenes tipp és támogatás üzeneteket fogsz kapni."
+"Folytatás a Nokia feltételek elfogadásával."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"A feliratkozás meghiúsult.\n"
+"Használd a 'My Nokia'-t a Beállításoknál és próbáld újra. Részletes inforációért látogass el a"
+"www.nokia.com/mynokia weboldalra."
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"Üdvözöl a My Nokia.\n"
+"Hamarosan INGYENES tippeket és támogatásokat fogsz kapni SMS-ben."
+"Leiratkozáshoz használd a 'My Nokia'-t a Beállításoknál."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Ismét itt! \n"
+"Már regisztráltál a My Nokia-nál. Mostantól Tippeket kapsz az "
+"új Nokiádhoz."
+
