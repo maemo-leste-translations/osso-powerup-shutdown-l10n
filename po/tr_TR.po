@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-powerup-shutdown 20091019161421\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 10:20+0300\n"
+"PO-Revision-Date: 2010-05-29 21:58+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Şartlar ve Esaslar"
+
+msgid "dpup_ia_battery_full"
+msgstr "Batarya dolu"
+
+msgid "dpup_ia_charging"
+msgstr "Şarj oluyor"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Şarj cihazını güç kaynağından ayırarak enerji tasarrufu edin"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr "Cihaz çok ısındı ve kapatılacak. Soğutmaya yardım etmek için klavyeyi açık tutun."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Şarj olmuyor"
+
+msgid "powerup_by_continuing"
+msgstr "Devam ederek, Nokia'nın şartlarını kabul ediyorsunuz."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Arama esnasında cihaz kilitlenemiyor"
+
+msgid "powerup_ib_general_activated"
+msgstr "Profil etkinleştirildi: Genel"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Profil etkinleştirildi: Sessiz"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr ""
+"Cihaz USB ile kullanılıyor. Cihazın PC bağlantısı kesin ve "
+"kapatmayı tekrar deneyin."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Görevi sonlandır"
+
+msgid "powerup_memainmenu_activatephone"
+msgstr "Telefonu etkinleştir"
+
+msgid "powerup_memainmenu_deactivatephone"
+msgstr "Telefonu etkisizleştir"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Çevrimdışı modu"
+
+msgid "powerup_memainmenu_general"
+msgstr "Genel"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Cihazı kilitle"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Ekranı ve tuşları kilitle"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Normal modu"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Kapat!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Sessiz"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Çevrimdışı modundan çık?"
+
+msgid "powerup_sign_up_register"
+msgstr "Kayıt ol"
+
+msgid "powerup_thank_you"
+msgstr ""
+"Nokia'yı seçtiğiniz için teşekkürler. Nokia'nız yüzlerce uygulama & oyunu olan "
+"Ovi Mağaza'yı içerir. "
+
+msgid "powerup_thank_you2"
+msgstr ""
+"Nokia'yı seçtiğiniz için teşekkürler. Yeni Nokia'nızı etkili şekilde kullanmak için "
+"ipucu ve destek mesajlarına kayıt olabilirsiniz"
+
+msgid "powerup_to_get_most"
+msgstr ""
+"Yeni Nokia'nızdan tam verim alabilmek için ipucu ve destek mesajlarını alacaksınız. "
+"Devam ederek, Nokia'nın şartlarını kabul ediyorsunuz."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr ""
+"Kaydınız başarısız oldu.\n"
+"Ayarlarda 'My Nokia' ile tekrar deneyin. Daha fazla bilgi için, "
+"www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr ""
+"My Nokia'ya hoşgeldiniz.\n"
+"Kısa süre içinde Nokia'nız için SMS ile ipucu ve destek mesajlarını alacaksınız. "
+"Abonelikten çıkmak için Ayarlardan 'My Nokia' bölümüne bakın."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr ""
+"Tekrar hoşgeldiniz! \n"
+"Zaten My Nokia'ya kayıtlısınız. Yeni Nokia'nız için ipuçları almaya "
+"başlayacaksınız."
