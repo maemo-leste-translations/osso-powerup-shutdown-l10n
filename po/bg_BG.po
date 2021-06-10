@@ -1,0 +1,96 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Условия и правила"
+
+msgid "dpup_ia_battery_full"
+msgstr "Батерията е заредена"
+
+msgid "dpup_ia_charging"
+msgstr "Зарежда се"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Изключете зарядното от контакта за да спестите ток"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr "Устройството е твърде горещо и ще бъде изключено. Издърпайте клавиатурата за да помогнете с охлаждането."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Не се зарежда"
+
+msgid "powerup_by_continuing"
+msgstr "Продължавайки, Вие приемате условията на Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Устройството не може да бъде заключено по време на разговор"
+
+msgid "powerup_ib_general_activated"
+msgstr "Активиран е профил: Общ"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Активиран е профил: Тихо"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr "Устройството се използва през USB. Откачете го от компютъра и опитайте да го изключите отново."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Спиране на текуща задача"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Без комуникации"
+
+msgid "powerup_memainmenu_general"
+msgstr "Общ профил"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Заключване на устройство"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Закл. екран и клавиатура"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Нормален режим"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Изключване!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Тих профил"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Излизане от режим \"без комуникации\"?"
+
+msgid "powerup_sign_up_register"
+msgstr "Регистрация"
+
+msgid "powerup_thank_you"
+msgstr "Благодарим Ви че избрахте Nokia. Вашата Nokia включва Ovi каталог със стотици приложения и игри."
+
+msgid "powerup_thank_you2"
+msgstr "Благодарим Ви че избрахте Nokia. За да получите най-доброто от Вашата нова Nokia, може да се регистрирате за съобщения със съвети и помощ."
+
+msgid "powerup_to_get_most"
+msgstr "За да получите най-доброто от Вашата нова Nokia Виер ще получавате съобщения със съвети и помощ. Продължавайки, Вие приемате условията на Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr "Вашата регистрация е неуспешна.\nПрегледайте настройките в 'Моята Nokia' и опитайте отново. За повече информация. посетете www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr "Добре дошли в Моята Nokia.\nСкоро ще започнете да получавате съвети и помощ за Вашата Nokia през SMS. За отписване прегледайте настройките в 'Моята Nokia'."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr "Добре дошли отново! \nВие вече сте регистрирани в Моята Nokia. Сега ще започнете да получавате съвети и помощ за Вашата нова Nokia."
