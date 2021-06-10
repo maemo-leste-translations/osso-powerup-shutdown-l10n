@@ -1,0 +1,97 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2011-11-06 15:21+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "شرایط و ضوابط"
+
+msgid "dpup_ia_battery_full"
+msgstr "باتری کامل شارژ شد"
+
+msgid "dpup_ia_charging"
+msgstr "در حال شارژ"
+
+msgid "dpup_ia_remove_charger"
+msgstr "شارژر را به منظور عدم اتلاف انرژی از پریز برق خارج کنید"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr "دمای گوشی بیش از حد بالا رفته است و به همین خاطر خاموش خواهد شد ، اسلاید صفحه کلید را برای تسریع خنک شدن گوشی باز کنید."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "در حال شارژ نیست"
+
+msgid "powerup_by_continuing"
+msgstr "با انتخاب کلید \"ادامه\" ، شما ضوابط نوکیا را قبول می‌کنید"
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "امکان قفل گوشی در حین تماس ، وجود ندارد"
+
+msgid "powerup_ib_general_activated"
+msgstr "پروفایل فعال:عمومی"
+
+msgid "powerup_ib_silent_activated"
+msgstr "پروفایل فعال:بیصدا"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr "گوشی شما در حال استفاده از یو‌اس‌بی است.گوشی را از کامپیوتر جدا کرده و دوباره گزینه ی خاموش کردن گوشی را بزنید "
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "پایان کار فعلی"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "حالت آفلاین"
+
+msgid "powerup_memainmenu_general"
+msgstr "عمومی"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "قفل دستگاه"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "قفل کردن صفحه و کلیدها"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "حالت عادی"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "خاموش کردن!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "بیصدا"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "از حالت آفلاین خارج شود؟"
+
+msgid "powerup_sign_up_register"
+msgstr "ثبت نام"
+
+msgid "powerup_thank_you"
+msgstr "از اینکه نوکیا را انتخاب کرده‌اید ، سپاسگذاریم.نوکیای شما شامل فروشگاه اُوی با هزاران برنامه و بازی رایگان می‌باشد"
+
+msgid "powerup_thank_you2"
+msgstr "از اینکه نوکیا را انتخاب کرده‌اید ، سپاسگذاریم.برای اطلاع از راهنمایی‌ها و پشتیبانی به رایگان ثبت نام کنید"
+
+msgid "powerup_to_get_most"
+msgstr "برای استفاده از نهایت امکانات دستگاه ، شما راهنمایی‌ها و پیام‌های پشتیبانی را دریافت خواهید کرد. با ادامه‌ی این پیغام ، شما ضوایط نوکیا را قبول می‌کنید"
+
+msgid "qtn_pa_confirmation_sf"
+msgstr "ثبت نام شما ناموفق بود.\n به \"نوکیای من\" در تنظیمات دستگاه رجوع کنید.برای اطلاعات بیشتر به این سایت مراجعه کنید \nwww.nokia.com/mynokia     "
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr "به نوکیا خوش آمدید.\nشما بزودی برای دریافت راهنمایی و پشتیبانی رایگان از نوکیا پیام دریافت خواهید کرد.برای لغو اشتراک در تنظیمات گزینه‌ی نوکیا‌ی من را مشاهده کنید"
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr "خوش آمدید!\nشما در حال حاضر در نوکیای من ثبت نام کردید.از این به بعد ، راهنمایی‌های نوکیا در مورد دستگاه خود را ، دریافت خواهید کرد.  "
