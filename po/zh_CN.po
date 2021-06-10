@@ -1,0 +1,96 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Terms and Conditions"
+
+msgid "dpup_ia_battery_full"
+msgstr "电池电量满"
+
+msgid "dpup_ia_charging"
+msgstr "正在充电"
+
+msgid "dpup_ia_remove_charger"
+msgstr "为了节能,请断开充电器"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr "设备过热将自动关机.请打开键盘帮助散热."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "无法充电"
+
+msgid "powerup_by_continuing"
+msgstr "By continuing, you accept Nokia’s terms."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "通话中,无法锁定设备"
+
+msgid "powerup_ib_general_activated"
+msgstr "启用普通模式"
+
+msgid "powerup_ib_silent_activated"
+msgstr "启用静音模式"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr "设备正在被使用,请断开PC连接并重试."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "结束当前任务"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "飞行模式"
+
+msgid "powerup_memainmenu_general"
+msgstr "普通模式"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "锁定设备"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "锁定触摸屏和键盘"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "常规模式"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "关机!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "静音模式"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "退出飞行模式?"
+
+msgid "powerup_sign_up_register"
+msgstr "Sign up"
+
+msgid "powerup_thank_you"
+msgstr "Thank you for choosing Nokia. Your Nokia includes Ovi Store with hundreds of applications & games."
+
+msgid "powerup_thank_you2"
+msgstr "Thank you for choosing Nokia. To get most out of your new Nokia you can sign up for tips & support messages"
+
+msgid "powerup_to_get_most"
+msgstr "To get the most out of your new Nokia you will receive tips & support messages. By continuing, you accept Nokia’s terms."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr "Your sign-up failed.\nSee 'My Nokia' in Settings to try again. For more information, visit www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr "Welcome to My Nokia.\nYou will shortly start receiving Tips and Support for your Nokia via SMS. To unsubscribe see 'My Nokia' in Settings."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr "Welcome back! \nYou are already registered to My Nokia. You will now start receiving Tips for your new Nokia."
