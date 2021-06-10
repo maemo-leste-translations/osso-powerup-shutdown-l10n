@@ -1,0 +1,96 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2012-05-30 14:40+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "使用條款"
+
+msgid "dpup_ia_battery_full"
+msgstr "電池充電已完成"
+
+msgid "dpup_ia_charging"
+msgstr "正在充電"
+
+msgid "dpup_ia_remove_charger"
+msgstr "為了節約能源,請移除充電器"
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr "裝置過熱，即將關閉! 請滑開鍵盤, 以加速散熱."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "未充電"
+
+msgid "powerup_by_continuing"
+msgstr "繼續即表示您接受銷售包裝內的諾基亞條款"
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "通話中無法鎖定裝置"
+
+msgid "powerup_ib_general_activated"
+msgstr "啟動模式: 標準"
+
+msgid "powerup_ib_silent_activated"
+msgstr "啟動模式: 無聲"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr "裝置正通過USB連接.請從電腦中斷裝置並再試著關閉裝置."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "結束目前工作排程"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "飛行模式"
+
+msgid "powerup_memainmenu_general"
+msgstr "標準"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "鎖定裝置"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "鎖定螢幕和鍵盤"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "正常模式"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "關機"
+
+msgid "powerup_memainmenu_silent"
+msgstr "無聲"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "退出飛行模式"
+
+msgid "powerup_sign_up_register"
+msgstr "註冊"
+
+msgid "powerup_thank_you"
+msgstr "您好. 謝謝您選購諾基亞. 在這款新手機中您可以享受 Ovi 商店的服務, 可以下載各種應用程式及遊戲."
+
+msgid "powerup_thank_you2"
+msgstr "謝謝您選購諾基亞. 為了讓您充分發揮新手機的功能, 您可以申請收到免費的手機簡訊教學服務. "
+
+msgid "powerup_to_get_most"
+msgstr "為了讓您充分發揮新手機的功能, 您將收到免費的手機簡訊教學服務. 若繼續,即表示您接受諾基亞銷售包裝內的條款並註冊保固服務. 系統業者將向您收取一則簡訊費用. "
+
+msgid "qtn_pa_confirmation_sf"
+msgstr "註冊失敗. 請至\"設定\"功能, 進入\"My Nokia\"再試一次. 請至www.nokia.com.tw/mynokia 取得更多資訊. "
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr "歡迎來到 My Nokia.  您將開始收到免費的手機簡訊教學服務. 如需取消訂閱,請至\"設定\"功能, 進入\"My Nokia\"功能取消訂閱. 系統業者將向您收取一則簡訊費用. "
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr "歡迎回來! 您已經成功註冊 My Nokia. 您將開始收到適用於您新手機簡訊教學服務. "
