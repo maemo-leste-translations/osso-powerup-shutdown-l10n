@@ -1,0 +1,96 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "cherry_bt_terms_conditions"
+msgstr "Όροι Χρήσης"
+
+msgid "dpup_ia_battery_full"
+msgstr "Μπαταρία πλήρης"
+
+msgid "dpup_ia_charging"
+msgstr "Σε φόρτιση"
+
+msgid "dpup_ia_remove_charger"
+msgstr "Μπαταρία πλήρως φορτισμένη. Αποσυνδέστε το φορτιστή από\r\nτην πρίζα για εξοικονόμηση ενέργειας."
+
+msgid "dpup_ia_thermal_shutdown"
+msgstr "Η συσκευή είναι πολύ ζεστή και γι' αυτό θα απενεργοποιηθεί. Ανοίξτε το πληκτρολόγιο για να βοηθήσετε να ψυχθεί."
+
+msgid "dpup_ib_cannot_charge_battery"
+msgstr "Δεν φορτίζεται"
+
+msgid "powerup_by_continuing"
+msgstr "Αν συνεχίσετε, αποδέχεστε τους όρους της Nokia."
+
+msgid "powerup_ib_device_lock_not_available"
+msgstr "Αδυναμία κλειδώματος της συσκευής κατά τη διάρκεια μιας κλήσης"
+
+msgid "powerup_ib_general_activated"
+msgstr "Ενεργό προφίλ: Γενικό"
+
+msgid "powerup_ib_silent_activated"
+msgstr "Ενεργό προφίλ: Αθόρυβο"
+
+msgid "powerup_in_do_not_switch_off"
+msgstr "Η συσκευή χρησιμοποιείται μέσω του USB. Αποσυνδέστε τη συσκευή από τον Η/Υ και προσπαθήστε να την απενεργοποιήσετε ξανά."
+
+msgid "powerup_memain_endcurrenttask"
+msgstr "Τέλος τρέχουσας εργασίας"
+
+msgid "powerup_memainmenu_flightmode"
+msgstr "Λειτ. εκτός σύνδεσης"
+
+msgid "powerup_memainmenu_general"
+msgstr "Γενικό"
+
+msgid "powerup_memainmenu_lockdevice"
+msgstr "Κλείδωμα συσκευής"
+
+msgid "powerup_memainmenu_lockscreen"
+msgstr "Κλείδ. οθόνης και πλήκτρων"
+
+msgid "powerup_memainmenu_normalmode"
+msgstr "Κανονική λειτουργία"
+
+msgid "powerup_memainmenu_poweroff"
+msgstr "Απενεργοποίηση!"
+
+msgid "powerup_memainmenu_silent"
+msgstr "Αθόρυβο"
+
+msgid "powerup_nc_exit_flight_mode"
+msgstr "Απενεργοποίηση λειτουργίας εκτός σύνδεσης!"
+
+msgid "powerup_sign_up_register"
+msgstr "Εγγραφή"
+
+msgid "powerup_thank_you"
+msgstr "Ευχαριστούμε που επιλέξατε τη Nokia. Το τηλέφωνό σας περιλαμβάνει το Ovi Store με 100άδες εφαρμογές και παιχνίδια."
+
+msgid "powerup_thank_you2"
+msgstr "Ευχαριστούμε που επιλέξατε τη Nokia. Για να εκμεταλλευτείς πλήρως το κινητό σου,μπορείς να εγγραφείς για συμβουλές και υποστήριξη."
+
+msgid "powerup_to_get_most"
+msgstr "Για να εκμεταλλευτείς πλήρως το κινητό σου θα λάβεις μηνύματα με συμβουλές και υποστήριξη. Αν συνεχίσεις, αποδέχεσαι τους όρους της Nokia."
+
+msgid "qtn_pa_confirmation_sf"
+msgstr "Η εγγραφή απέτυχε.\nΔες το 'My Nokia' στις Ρυθμίσεις. Για περισσότερες πληροφορίες, επισκέψου το www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_ss1_1"
+msgstr "Καλωσήρθες στο My Nokia.\nΣύντομα θα λάβεις συμβουλές και υποστήριξη για το κινητό σου με μήνυμα. Για διαγραφή πήγαινε στο 'My Nokia' στις Ρυθμίσεις."
+
+msgid "qtn_pa_confirmation_ss2_1"
+msgstr "Καλωσήρθες! \nΈχεις ήδη εγγραφεί στο My Nokia. Στο εξής θα λαμβάνεις χρήσιμες οδηγίες για το κινητό σου."
